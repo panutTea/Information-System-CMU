@@ -2,7 +2,7 @@
 
 Project Name: Information System for Scheduling Undergraduate Courses at Chiang Mai University
 
-This project is created for learning the principles of concurrency that can occur in web applications by using PHP as the programming language. This study proposes the development of an information system for scheduling undergraduate courses at Chiang Mai University, which will enable students to make registration decisions by providing an automatic check for courses with conflicting exam schedules. This will allow students to check whether the exam schedule of a course they have registered for conflicts with the schedule of another course. Additionally, it will allow students to make registration decisions and cancel course registrations quickly and efficiently.
+This project is created for learning the principles of Object Oriented Design (OOD) that can occur in web applications by using PHP as the programming language. This study proposes the development of an information system for scheduling undergraduate courses at Chiang Mai University, which will enable students to make registration decisions by providing an automatic check for courses with conflicting exam schedules. This will allow students to check whether the exam schedule of a course they have registered for conflicts with the schedule of another course. Additionally, it will allow students to make registration decisions and cancel course registrations quickly and efficiently.
 ## Local Project Running
 1. Install XAMPP : https://www.apachefriends.org/
 2. Open the Local Project with XAMPP :
